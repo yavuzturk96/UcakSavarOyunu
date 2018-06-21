@@ -1,0 +1,19 @@
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\bin\Debug\proje.exe.config
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\bin\Debug\proje.exe
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\bin\Debug\proje.pdb
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\obj\Debug\proje.exe
+C:\Users\HAKAN53\Documents\Visual Studio 2015\Projects\2016-2017 NDP\proje\proje\obj\Debug\proje.pdb
+C:\Users\YAVUZ\Desktop\proje\proje\bin\Debug\proje.exe.config
+C:\Users\YAVUZ\Desktop\proje\proje\bin\Debug\proje.exe
+C:\Users\YAVUZ\Desktop\proje\proje\bin\Debug\proje.pdb
+C:\Users\YAVUZ\Desktop\proje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Users\YAVUZ\Desktop\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\YAVUZ\Desktop\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\YAVUZ\Desktop\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\YAVUZ\Desktop\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ\Desktop\proje\proje\obj\Debug\proje.exe
+C:\Users\YAVUZ\Desktop\proje\proje\obj\Debug\proje.pdb
